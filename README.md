@@ -1,0 +1,60 @@
+# Hi, I'm Eldrian! 
+
+<div align="center">
+<pre>
+      ___           ___       ___           ___                       ___           ___     
+     /\  \         /\__\     /\  \         /\  \          ___        /\  \         /\__\    
+    /::\  \       /:/  /    /::\  \       /::\  \        /\  \      /::\  \       /::|  |   
+   /:/\:\  \     /:/  /    /:/\:\  \     /:/\:\  \       \:\  \    /:/\:\  \     /:|:|  |   
+  /::\~\:\  \   /:/  /    /:/  \:\__\   /::\~\:\  \      /::\__\  /::\~\:\  \   /:/|:|  |__ 
+ /:/\:\ \:\__\ /:/__/    /:/__/ \:|__| /:/\:\ \:\__\  __/:/\/__/ /:/\:\ \:\__\ /:/ |:| /\__\
+ \:\~\:\ \/__/ \:\  \    \:\  \ /:/  / \/_|::\/:/  / /\/:/  /    \/__\:\/:/  / \/__|:|/:/  /
+  \:\ \:\__\    \:\  \    \:\  /:/  /     |:|::/  /  \::/__/          \::/  /      |:/:/  / 
+   \:\ \/__/     \:\  \    \:\/:/  /      |:|\/__/    \:\__\          /:/  /       |::/  /  
+    \:\__\        \:\__\    \::/__/       |:|  |       \/__/         /:/  /        /:/  /   
+     \/__/         \/__/     ~~            \|__|                     \/__/         \/__/    
+</pre>
+</div>
+
+## About Me:
+
+- I am Eldrian, 21 years old. I'm proficient in English, Tagalog, and Cebuano.
+- Actively participating in tech events.
+- Currently learning/exploring Machine Learning, Advanced Excel, EDA, and Capstone xD.
+- Doing BSIT from UM TAGU (3.92/4 GPA : currently in 2nd semester).
+- Won WebDev Competition, Best Presenter Award at the Department Academic Festival.
+- Typing speed 80 WPM.
+- Also an aspiring Full Stack developer (currently knows a lil bit of frontend/backend).
+- I love watching kdrama, anime, and tech videos. I do sports (soccer) and I also run/jog.
+
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/Eldri06">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/Eldri06">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,php,blade,dart,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/Eldri06">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,supabase,firebase,mysql,cisco,androidstudio,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+
