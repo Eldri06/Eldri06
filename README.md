@@ -29,7 +29,7 @@
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="25%">
+<div align="center"><table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/Eldri06">
