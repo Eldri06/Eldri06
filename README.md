@@ -51,7 +51,7 @@
 ### Others
 <a href="https://github.com/Eldri06">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,supabase,firebase,mysql,cisco,androidstudio,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase,git,github,postman,vscode,figma,vercel,npm,discord,notion,googlecolab,jupyter&perline=4" /> 
 </div>
 </a>
 </td>
