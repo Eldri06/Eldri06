@@ -32,7 +32,6 @@
 <div align="center"><table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/Eldri06">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind,js&perline=4" /> 
 </div>
@@ -40,7 +39,6 @@
  </td><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/Eldri06">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,php,blade,dart,java,python,&perline=4" /> 
 </div>
@@ -49,7 +47,6 @@
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/Eldri06">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase,git,github,postman,vscode,figma,vercel,npm,discord,notion,googlecolab,jupyter&perline=4" /> 
 </div>
