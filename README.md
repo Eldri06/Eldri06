@@ -22,7 +22,7 @@
 - Actively participating in tech events.
 - Currently learning/exploring Machine Learning, MERN stack, Advanced Excel, EDA, and Capstone xD.
 - Doing BSIT from UM TAGU (3.92/4 GPA : currently in 2nd semester).
-- Won WebDev Competition, Best Presenter Award at the Department Academic Festival.
+- Won WebDev Competition, Best Presenter, Best Website, Award at the Department Academic Festival.
 - Typing speed 80 WPM.
 - Also an aspiring Full Stack developer (currently knows a bit of frontend/backend hehe).
 - I love watching kdrama, anime, and tech videos. I do sports (soccer) and I also run/jog.
