@@ -20,7 +20,7 @@
 
 - I am Eldrian, 21 years old. I'm proficient in English, Tagalog, and Cebuano.
 - Actively participating in tech events.
-- Currently learning/exploring Machine Learning, Advanced Excel, EDA, and Capstone xD.
+- Currently learning/exploring Machine Learning, MERN stack, Advanced Excel, EDA, and Capstone xD.
 - Doing BSIT from UM TAGU (3.92/4 GPA : currently in 2nd semester).
 - Won WebDev Competition, Best Presenter Award at the Department Academic Festival.
 - Typing speed 80 WPM.
