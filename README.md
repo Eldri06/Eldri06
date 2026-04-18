@@ -57,4 +57,7 @@
 </td>
 </tr></table>
 
+ <div align="center"> <img src="https://komarev.com/ghpvc/?username=Eldri06&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
