@@ -49,7 +49,7 @@
   
 ### Others
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase,git,github,postman,vscode,figma,vercel,npm,discord,notion,googlecolab,jupyter&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase,git,github,postman,vscode,figma,vercel,npm,discord,notion,googlecolab&perline=4" /> 
 </div>
 </a>
 </td>
