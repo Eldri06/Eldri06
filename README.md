@@ -26,7 +26,7 @@
 - Attended several seminars, webinars, conferences as a student journalist in Collegium, UMTC's official publication
 - Typing speed 75-80 WPM.
 - Also an aspiring Full Stack developer (currently knows a bit of frontend/backend hehe).
-- I love watching kdrama, anime, and tech videos. I do sports (soccer) and I also run/jog.
+- I love watching kdramas, animes, and tech videos. I do sports (soccer) and I also run/jog.
 
 ## Skill Set:
 
