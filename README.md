@@ -21,7 +21,8 @@
 - I am Eldrian, 21 years old. I'm proficient in English, Tagalog, and Cebuano.
 - Actively participating in tech events, departmental activities, interschool competitions.
 - Currently learning/exploring Machine Learning, MERN stack, Advanced Excel, EDA, and Capstone xD.
-- Doing BSIT from UM TAGUM (3.92/4 GPA : currently in 2nd semester).
+- Doing BSIT in UM TAGUM (3.92/4 GPA : currently in 2nd semester).
+- Was a Deans Lister during my 1st yr.
 - Won WebDev Competition, Best Presenter, Best Website Award at the Department Academic Festival.
 - Attended several seminars, webinars, conferences as a student journalist in Collegium, UMTC's official publication
 - Typing speed 75-80 WPM.
