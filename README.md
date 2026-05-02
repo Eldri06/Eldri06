@@ -35,7 +35,7 @@
 
 ### Frontend  
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind,js,vite,angular,vue.js,svelte&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
