@@ -23,7 +23,7 @@
 - Currently learning/exploring Machine Learning, MERN stack, Advanced Excel, EDA, and Capstone(computer vision, AR) xD.
 - Doing BSIT in UM TAGUM (3.92/4 GPA : currently in 2nd semester).
 - Was a Deans Lister during my 1st yr.
-- Won WebDev Competition, Best Presenter, Best Website Award at the Department Academic Festival.
+- Won WebDev Competition, Best Presentor, Best Website Award at the Department Academic Festival.
 - Attended several seminars, conferences as a student journalist in Collegium, UMTC's official publication
 - Typing speed 75-80 WPM.
 - Also an aspiring Full Stack developer (currently knows a bit of frontend/backend hehhee).
