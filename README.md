@@ -19,7 +19,7 @@
 ## About Me:
 
 - I am Eldrian, 21 years old. I'm proficient in English, Tagalog, and Cebuano/Bisaya.
-- Actively participating in tech events, interschool competitions.
+- Actively participating in tech events, academic events, interschool competitions.
 - Currently learning/exploring Machine Learning, MERN stack, EDA, and Capstone(computer vision, AR) xD.
 - Doing BSIT in UM TAGUM (3.92/4 GPA : currently in 2nd semester).
 - Was a Deans Lister during my 1st yr.
