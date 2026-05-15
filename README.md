@@ -26,7 +26,7 @@
 - Won WebDev Competition, Best Presentor, Best Website Award at the Department Academic Festival.
 - Attended several seminars, conferences as a student journalist in Collegium, UMTC's official publication
 - Typing speed 75-80 WPM.
-- Also an aspiring Full Stack developer (currently knows a bit of frontend/backend hehhee).
+- Also an aspiring Full Stack Developer (currently knows a bit of frontend/backend hehhee).
 - I love watching kdramas, animes, and tech videos, twitch streams, nba and other type of interesting videos. I do sports (soccer) and I also run/jog.
 
 ## Skill Set:
